@@ -9,3 +9,5 @@ Scraping, cleaning and visualizing data scraped from parliament.gov.sg
 - Run Parliament Analysis.ipynb to create analysis
 
 
+## Visualization
+Check out the visualization [here](https://public.flourish.studio/story/354736/)
